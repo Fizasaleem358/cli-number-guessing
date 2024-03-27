@@ -9,7 +9,7 @@ import inquirer from "inquirer"
 
 //3)compare user input with coputer generated number and show result
 const randomNumber = Math.floor(Math.random()*10+1);
-console.log(randomNumber)
+ 
 const answer = await inquirer.prompt([
     {
         name:"userGuessNumber",

@@ -1,6 +1,6 @@
 {
   "name": "fs22-cli-number-guessing",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "description": "this is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
